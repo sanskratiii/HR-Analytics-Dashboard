@@ -9,6 +9,6 @@ The dashboard is designed to uncover trends in employee attrition, satisfaction,
 
 📷 Preview
 
-Power BI file: [HR Analytics Dashboard.pbix](link-to-your-pbix-file)
+Power BI file: [HR Analytics Dashboard.pbip](https://github.com/sanskratiii/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.pbip)
 
 PDF version: [HR Analytics Dashboard.pdf](https://github.com/sanskratiii/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.pdf)
