@@ -36,8 +36,11 @@ PDF version: [HR Analytics Dashboard.pdf](https://github.com/sanskratiii/HR-Anal
 To provide an interactive workforce analytics tool that helps HR professionals:
 
 -Tracks employee counts, attrition, satisfaction, and salary growth
+
 -Breaks down workforce by role, department, gender, and education
+
 -Monitor salary growth and satisfaction trends.
+
 -Improve workforce planning and retention strategies.
 
 ⛳ Walkthrough of Key Visuals
