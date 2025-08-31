@@ -1,6 +1,4 @@
-# HR-Analytics-Dashboard
-👔 HR Analytics Dashboard
-
+# HR Analytics Dashboard
 HR Analytics Dashboard takes a dataset and turns it into clean, interactive visuals for spotting workforce trends. Whether you care about retention, department strengths, or how roles compare on pay and satisfaction, everything’s here at a glance.
 
 📝 Purpose
