@@ -15,15 +15,15 @@ PDF version: [HR Analytics Dashboard.pdf](https://github.com/sanskratiii/HR-Anal
 
 🛠 Tech Stack
 
-📊 Power BI Desktop – For all dashboard visuals and interactivity
+Power BI Desktop – For all dashboard visuals and interactivity
 
-📂 Power Query – Data cleaning, shaping, and transformation
+Power Query – Data cleaning, shaping, and transformation
 
-🧠 DAX – Calculated measures, KPIs, and dynamic metrics
+DAX – Calculated measures, KPIs, and dynamic metrics
 
-📝 Excel – Initial data cleaning and prep
+Excel – Initial data cleaning and prep
 
-📁 File Formats – .pbip for dashboard and .xlsx for source cleaning
+File Formats – .pbip for dashboard and .xlsx for source cleaning
 
 📊 Data Source: Kaggle 
 
